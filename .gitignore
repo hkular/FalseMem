@@ -47,3 +47,17 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+# Matlab
+# =========================
+.mat
+.asv
